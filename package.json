@@ -1,0 +1,28 @@
+{
+  "name": "dogwood-gulp",
+  "version": "1.0.0",
+  "description": "Dogwood Creative Gulp Quickstart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dogwoodcreative/gulp.git"
+  },
+  "author": "Dogwood Creative <info@wearedogwood.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dogwoodcreative/gulp/issues"
+  },
+  "homepage": "https://github.com/dogwoodcreative/gulp",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-live-server": "0.0.30",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "gulp-watch": "^4.3.9"
+  }
+}
